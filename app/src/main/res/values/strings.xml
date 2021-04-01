@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculadoraDeNotas</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Nota1">Nota1</string>
+    <string name="Nota2">Nota2</string>
+    <string name="Faltas">Faltas</string>
+</resources>
